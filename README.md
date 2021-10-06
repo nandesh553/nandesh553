@@ -17,7 +17,7 @@
 
 <br>
 
-- 🔭 I’m currently working at [V-Mart](https://nandeshwar.in/) as Senior Manager Data Science
+- 🔭 I’m currently working at [V-Mart](https://www.linkedin.com/company/v-mart-retail-ltd./) as [Senior Manager Data Science](https://nandeshwar.in/about/)
 - 🌱 I’m currently learning Active Learning in Recommendation Engines
 - 💻 I’m looking to collaborate on Deep Learning and Recommendation Engine projects.
 - 🤔 I’m looking for help with Multimodal Networks (Text & Tabular)
