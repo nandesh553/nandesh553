@@ -18,7 +18,7 @@
 <br>
 
 - 🔭 I’m currently working at [V-Mart](https://www.linkedin.com/company/v-mart-retail-ltd./) as [Senior Manager Data Science](https://nandeshwar.in/about/)
-- 🌱 I’m currently learning Multi Arm Bandits
+- 🌱 I’m currently learning about Multi Armed Bandits
 - 💻 I’m looking to collaborate on Deep Learning and Recommendation Engine projects.
 - 📫 How to reach me: [guptanandeshwar553@gmail.com](mailto:guptanandeshwar553@gmail.com)
 
