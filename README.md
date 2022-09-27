@@ -21,9 +21,10 @@
 - 🌱 I’m currently learning about Multi Armed Bandits
 - 💻 I’m looking to collaborate on Deep Learning and Recommendation Engine projects.
 - 📫 How to reach me: [guptanandeshwar553@gmail.com](mailto:guptanandeshwar553@gmail.com)
-
+<!--
 <br>
 
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=nandesh553&show_icons=true">
 </div>
+-->
